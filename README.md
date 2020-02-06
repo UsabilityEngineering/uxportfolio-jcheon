@@ -8,3 +8,4 @@ What's up ! My name is Jonathan Cheon. I'm interested in this class because I'm 
 
 ## UX Journal
 
+[journal1](journal-01/README.md)
