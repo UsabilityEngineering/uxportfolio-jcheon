@@ -11,3 +11,4 @@ What's up ! My name is Jonathan Cheon. I'm interested in this class because I'm 
 
 [Journal 1](journal-01/README.md)
 [Journal 2](journal-02/README.md)
+[Journal 3](journal-03/README.md)
