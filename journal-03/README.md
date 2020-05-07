@@ -24,7 +24,6 @@ When I'm all done scrolling through the homepage of the app, I want to look at o
 ![notification](../assets/rnotification.PNG)
 The notification section of the app is really cool. They have displayed it in a way that its a texting app by having a circle picture of the company, name of the company, and a portion of the message. They again used something that all people using their app already know which is such an **effective** and **efficient** way for users to use. 
 
-![messages](../assets/rmessages.PNG)
 ![options](../assets/roption.PNG)
 ![typing](../assets/rtyping.PNG)
 ![rreply](../assets/rreply.PNG)
